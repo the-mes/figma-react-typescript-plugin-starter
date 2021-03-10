@@ -1,0 +1,20 @@
+{
+  "name": "Plugin Starter",
+  "id": "",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "menu": [
+    {
+      "name": "Main Command",
+      "command": "main-command"
+    },
+    {
+      "separator": true
+    },
+    {
+      "name": "Another Command",
+      "command": "another-command"
+    }
+  ]
+}
