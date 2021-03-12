@@ -1,7 +1,7 @@
 {
-  "name": "invert-color",
+  "name": "plugin-starter",
   "version": "0.0.0",
-  "description": "",
+  "description": "<DESCRIPTION_HERE>",
   "author": "Jakub Biesiada",
   "license": "MIT",
   "main": "code.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pluginsky/invert-color.git"
+    "url": "https://github.com/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>.git"
   },
   "dependencies": {
     "react": "^17.0.1",
