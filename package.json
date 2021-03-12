@@ -1,8 +1,8 @@
 {
-  "name": "plugin-starter",
+  "name": "<PLUGIN_SLUG_NAME_HERE>",
   "version": "0.0.0",
   "description": "<DESCRIPTION_HERE>",
-  "author": "Jakub Biesiada",
+  "author": "<AUTHOR_HERE>",
   "license": "MIT",
   "main": "code.js",
   "scripts": {

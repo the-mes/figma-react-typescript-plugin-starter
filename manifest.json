@@ -1,20 +1,20 @@
 {
-  "name": "Plugin Starter",
-  "id": "",
+  "name": "<PLUGIN_DISPLAY_NAME_HERE>",
+  "id": "<PLUGIN_ID_HERE>",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/ui.html",
   "menu": [
     {
-      "name": "Main Command",
-      "command": "main-command"
+      "name": "<COMMAND_NAME_HERE>",
+      "command": "<COMMAND_ID_HERE>"
     },
     {
       "separator": true
     },
     {
-      "name": "Another Command",
-      "command": "another-command"
+      "name": "<COMMAND_NAME_HERE>",
+      "command": "<COMMAND_ID_HERE>"
     }
   ]
 }
