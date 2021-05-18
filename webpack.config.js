@@ -3,8 +3,8 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 const path = require("path");
 
 module.exports = (env, argv) => ({
-  mode: argv.mode === "production" ? "production" : "development",
-  devtool: argv.mode === "production" ? false : "inline-source-map",
+  mode: argv.mode || 'development',
+  devtool: argv.mode === 'production' ? false : 'inline-source-map',
   entry: {
     ui: "./src/ui/index.tsx",
     code: "./src/code/code.ts",
@@ -39,6 +39,7 @@ module.exports = (env, argv) => ({
       template: "./src/ui/ui.html",
       filename: "ui.html",
       chunks: ["ui"],
+      inject: "body",
     }),
     new InlineChunkHtmlPlugin(HtmlWebpackPlugin, [/.(js)$/]),
   ],
