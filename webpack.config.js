@@ -3,8 +3,8 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 const path = require("path");
 
 module.exports = (env, argv) => ({
-  mode: argv.mode || 'development',
-  devtool: argv.mode === 'production' ? false : 'inline-source-map',
+  mode: argv.mode || "development",
+  devtool: argv.mode === "production" ? false : "inline-source-map",
   entry: {
     ui: "./src/ui/index.tsx",
     code: "./src/code/code.ts",
