@@ -2,8 +2,8 @@
 
 [![Figma downloads](https://img.shields.io/endpoint?style=flat-square&url=https://figma-plugin-badges.vercel.app/api/installs/<PLUGIN_ID_HERE>)](https://www.figma.com/community/plugin/<PLUGIN_ID_HERE>/<PLUGIN_NAME_HERE>)
 [![Figma likes](https://img.shields.io/endpoint?style=flat-square&url=https://figma-plugin-badges.vercel.app/api/likes/<PLUGIN_ID_HERE>)](https://www.figma.com/community/plugin/<PLUGIN_ID_HERE>/<PLUGIN_NAME_HERE>)
-[![GitHub license](https://img.shields.io/github/license/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>?style=flat-square)](https://github.com/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>)
-[![Travis](https://img.shields.io/travis/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>/master?style=flat-square)](https://travis-ci.org/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>)
+[![GitHub license](https://img.shields.io/github/license/the-mes/figma-react-typescript-plugin-starter?style=flat-square)](https://github.com/the-mes/figma-react-typescript-plugin-starter)
+[![Travis](https://img.shields.io/travis/com/the-mes/figma-react-typescript-plugin-starter/main?style=flat-square)](https://travis-ci.com/the-mes/figma-react-typescript-plugin-starter)
 
 ## About
 
@@ -48,4 +48,4 @@ When making changes go to Menu > Plugins > "Run Last Plugin" (Or hit ⌥⌘P for
 
 ## License
 
-This project is licensed under the MIT License © <YEAR_HERE>-present Jakub Biesiada
+This project is licensed under the MIT License © 2021-present Jakub Biesiada

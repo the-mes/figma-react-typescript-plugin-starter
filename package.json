@@ -1,13 +1,13 @@
 {
   "name": "plugin-starter",
   "version": "0.0.0",
-  "description": "<DESCRIPTION_HERE>",
+  "description": "Template for Figma Plugin using React and TypeScript",
   "author": "Jakub Biesiada",
   "license": "MIT",
   "main": "code.js",
   "scripts": {
-    "release": "npm run prettier && npm run lint && npm run build",
-    "//clean TODO": "rimraf dist/*",
+    "release": "npm run clean && npm run prettier && npm run lint && npm run build",
+    "clean": "rimraf dist/*",
     "prebuild": "rimraf dist/*",
     "build": "webpack --mode production",
     "watch": "webpack --watch",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>.git"
+    "url": "https://github.com/the-mes/figma-react-typescript-plugin-starter.git"
   },
   "dependencies": {
     "react": "^17.0.2",
