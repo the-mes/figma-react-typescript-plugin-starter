@@ -24,8 +24,8 @@ This is the description of the best Figma Plugin. The best ever! There won't be 
 
 ### Prerequisites
 
-- Node.js
-- Yarn
+- [Node.js](https://nodejs.org/)
+- [Yarn](https://yarnpkg.com/)
 - [Figma Desktop](https://www.figma.com/downloads/)
 
 Clone the repo and run:
