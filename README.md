@@ -3,7 +3,7 @@
 [![Figma downloads](https://img.shields.io/endpoint?style=flat-square&url=https://figma-plugin-badges.vercel.app/api/installs/<PLUGIN_ID_HERE>)](https://www.figma.com/community/plugin/<PLUGIN_ID_HERE>/<PLUGIN_NAME_HERE>)
 [![Figma likes](https://img.shields.io/endpoint?style=flat-square&url=https://figma-plugin-badges.vercel.app/api/likes/<PLUGIN_ID_HERE>)](https://www.figma.com/community/plugin/<PLUGIN_ID_HERE>/<PLUGIN_NAME_HERE>)
 [![GitHub license](https://img.shields.io/github/license/the-mes/figma-react-typescript-plugin-starter?style=flat-square)](https://github.com/the-mes/figma-react-typescript-plugin-starter)
-[![Travis](https://img.shields.io/travis/com/the-mes/figma-react-typescript-plugin-starter/main?style=flat-square)](https://travis-ci.com/the-mes/figma-react-typescript-plugin-starter)
+[![Travis](https://img.shields.io/travis/com/the-mes/figma-react-typescript-plugin-starter/main?style=flat-square)](https://app.travis-ci.com/github/the-mes/figma-react-typescript-plugin-starter)
 
 ## About
 

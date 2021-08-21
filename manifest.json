@@ -1,6 +1,6 @@
 {
-  "name": "Plugin Starter",
-  "id": "",
+  "name": "<PLUGIN_NAME_HERE>",
+  "id": "<PLUGIN_ID_HERE>",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/ui.html",
