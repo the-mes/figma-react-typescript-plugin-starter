@@ -1,9 +1,10 @@
 import { App } from './ui';
 
-describe('App', () => {
-  it('should render component', () => {
-    const { getByText } = render(<App />);
+// TODO
+// describe('App', () => {
+//   it('should render component', () => {
+//     const { getByText } = render(<App />);
 
-    expect(getByText('Hello Figma!')).toBeInTheDocument();
-  });
-});
+//     expect(getByText('Hello Figma!')).toBeInTheDocument();
+//   });
+// });
